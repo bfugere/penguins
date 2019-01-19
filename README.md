@@ -8,6 +8,8 @@ creativelab project
 2) Hope it's not the Yeti.
 3) Play again.
 
+https://bfugere.github.io/penguins/
+
 # <(o_O)>
 
 
