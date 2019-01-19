@@ -16,4 +16,5 @@ https://bfugere.github.io/penguins/
 TODO: 
 - Keep penguins revealed when clicked and disappear when yeti is clicked. (Complete)
 - Implement code to randomize the penguin/yeti order between games. (Pending)
+- Add more mounds. (Pending)
 - Misc
