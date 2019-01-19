@@ -11,151 +11,149 @@ body {
 #title {
     width: 600px;
     height: 150px;
-    background-image:url('../img/penguin_title.png');
+    background-image: url('../img/penguin_title.png');
 }
 
-.penguin1:hover {
-    background-image:url('../img/mound_1_hover.png');
-    cursor: pointer;
-}
-
-.penguin1 {
+#mound1 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('../img/mound_1.png');
+    background-image: url('../img/mound_1.png');
 }
 
-.penguin1:active {
-	background-image:url('../img/penguin_1.png');
-}
-
-.penguin2:hover {
-    background-image:url('../img/mound_2_hover.png');
+#mound1:hover {
+    background-image: url('../img/mound_1_hover.png');
     cursor: pointer;
 }
 
-.penguin2 {
+.penguin1-reveal {
+    background-image: url('../img/penguin_1.png') !important;
+}
+
+#mound2 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('../img/mound_2.png');
+    background-image: url('../img/mound_2.png');
 }
 
-.penguin2:active {
-	background-image:url('../img/penguin_2.png');
-}
-
-.penguin3:hover {
-    background-image:url('../img/mound_3_hover.png');
+#mound2:hover {
+    background-image: url('../img/mound_2_hover.png');
     cursor: pointer;
 }
 
-.penguin3 {
+.penguin2-reveal {
+    background-image: url('../img/penguin_2.png') !important;
+}
+
+#mound3 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('../img/mound_3.png');
+    background-image: url('../img/mound_3.png');
 }
 
-.penguin3:active {
-	background-image:url('../img/penguin_3.png');
-}
-
-.penguin4:hover {
-    background-image:url('../img/mound_4_hover.png');
+#mound3:hover {
+    background-image: url('../img/mound_3_hover.png');
     cursor: pointer;
 }
 
-.penguin4 {
+.penguin3-reveal {
+    background-image: url('../img/penguin_3.png') !important;
+}
+
+#mound4 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('../img/mound_4.png');
+    background-image: url('../img/mound_4.png');
 }
 
-.penguin4:active {
-	background-image:url('../img/penguin_4.png');
-}
-
-.penguin5:hover {
-    background-image:url('../img/mound_5_hover.png');
+#mound4:hover {
+    background-image: url('../img/mound_4_hover.png');
     cursor: pointer;
 }
 
-.penguin5 {
+.penguin4-reveal {
+    background-image: url('../img/penguin_4.png') !important;
+}
+
+#mound5 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('../img/mound_5.png');
+    background-image: url('../img/mound_5.png');
 }
 
-.penguin5:active {
-	background-image:url('../img/penguin_5.png');
-}
-
-.penguin6:hover {
-    background-image:url('../img/mound_6_hover.png');
+#mound5:hover {
+    background-image: url('../img/mound_5_hover.png');
     cursor: pointer;
 }
 
-.penguin6 {
+.penguin5-reveal {
+    background-image: url('../img/penguin_5.png') !important;
+}
+
+#mound6 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('../img/mound_6.png');
+    background-image: url('../img/mound_6.png');
 }
 
-.penguin6:active {
-	background-image:url('../img/penguin_6.png');
-}
-
-.penguin7:hover {
-    background-image:url('../img/mound_7_hover.png');
+#mound6:hover {
+    background-image: url('../img/mound_6_hover.png');
     cursor: pointer;
 }
 
-.penguin7 {
+.penguin6-reveal {
+    background-image: url('../img/penguin_6.png') !important;
+}
+
+#mound7 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('../img/mound_7.png');
+    background-image: url('../img/mound_7.png');
 }
 
-
-.penguin7:active {
-	background-image:url('../img/penguin_7.png');
-}
-
-.penguin8:hover {
-    background-image:url('../img/mound_8_hover.png');
+#mound7:hover {
+    background-image: url('../img/mound_7_hover.png');
     cursor: pointer;
 }
 
-.penguin8 {
+.penguin7-reveal {
+    background-image: url('../img/penguin_7.png') !important;
+}
+
+#mound8 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('../img/mound_8.png');
+    background-image: url('../img/mound_8.png');
 }
 
-
-.penguin8:active {
-	background-image:url('../img/penguin_8.png');
-}
-
-.yeti:hover {
-    background-image:url('../img/mound_9_hover.png');
+#mound8:hover {
+    background-image: url('../img/mound_8_hover.png');
     cursor: pointer;
 }
 
-.yeti {
+.penguin8-reveal {
+    background-image: url('../img/penguin_8.png') !important;
+}
+
+#mound9 {
     width: 200px;
     height: 200px;
     float: left;
-    background-image:url('../img/mound_9.png');
+    background-image: url('../img/mound_9.png');
 }
 
-.yeti:active {
-	background-image:url('../img/yeti.png');
+#mound9:hover {
+    background-image: url('../img/mound_9_hover.png');
+    cursor: pointer;
+}
+
+.yeti-reveal {
+    background-image: url('../img/yeti.png') !important;
 }
